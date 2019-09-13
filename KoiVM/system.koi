@@ -1,0 +1,8 @@
+.code INIT
+	RET
+.end
+
+.code RETN
+	VCALL {EXIT}
+.end
+
