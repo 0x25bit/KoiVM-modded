@@ -10,6 +10,8 @@ This version includes:
 * Improved compatibility
 * Only supported OS is Windows.
 
+![](_68747470733a2f2f63646e2e6434726b2e66722f4d486d2e6a7067.png)
+
 **How to use**
 --------
 Add these projects to your ConfuserEx, then add this in your .crproj project file
@@ -19,3 +21,13 @@ Add these projects to your ConfuserEx, then add this in your .crproj project fil
 </rule>
 <plugin>?:\path\to\your\project\KoiVM.Confuser.exe</plugin>
 ```
+
+Credit to d4rk, developer and creator.
+
+
+
+
+
+
+
+![](d4rk_avatar.gif?s=87)
