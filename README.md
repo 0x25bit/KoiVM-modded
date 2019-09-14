@@ -1,6 +1,6 @@
-**DarksVM - KoiVM modded**
+**DarksVM - KoiVM custom**
 ========
-**DarksVM** is a modded version of **KoiVM** which is a confuserex plugin that allows you to virtualize methods to be understandable only by our computer.
+**DarksVM** is a modified version of **KoiVM** which is a ConfuserEx plugin that allows you to virtualize methods to be understandable only by our computer.
 
 This version includes:
 * Modified VMEntry name and entries
@@ -23,6 +23,8 @@ Add these projects to your ConfuserEx, then add this in your .crproj project fil
 ```
 
 Credit to d4rk, developer and creator.
+Join the Discord community and get access to DarkProtector and others, for free!
+https://discord.gg/bkkybeM
 
 
 
